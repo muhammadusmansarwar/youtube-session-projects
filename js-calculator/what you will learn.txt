@@ -1,0 +1,9 @@
+How to make logic
+
+How to registered event listeners
+
+How to use if else, and else if statement
+
+Some basic data types
+
+and much more
